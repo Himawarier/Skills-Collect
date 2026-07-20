@@ -1,6 +1,6 @@
 # Skills 收集仓库
 
-我工作与生活中使用的 AI Agent Skills 集合。每个 skill 是一个自包含目录，复制到任意 Agent 的 skills 目录即可使用。
+我工作与生活中使用过的和创建的比较好的个人 AI Agent Skills 集合。每个 skill 是一个自包含目录，复制到任意 Agent 的 skills 目录即可使用。
 
 ---
 

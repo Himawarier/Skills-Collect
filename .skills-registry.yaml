@@ -20,3 +20,9 @@ skills:
     category: 工作 > 开发
     tags: [嵌入式, GUI, 屏幕分析, HTML生成]
     summary: 分析嵌入式GUI屏幕截图，生成带交互逻辑的HTML原型
+
+  - name: understand-anything
+    path: work/dev/Understand-Anything-2.7.3/
+    category: 工作 > 开发
+    tags: [代码分析, 知识图谱, 架构分析, 多智能体, 可视化]
+    summary: 将代码库转换为交互式知识图谱，支持多平台插件
