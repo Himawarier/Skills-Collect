@@ -1,0 +1,22 @@
+# Skills Registry — 自动生成，请勿手动编辑
+# 运行 meta/generate-index/ 更新此文件
+# 最后更新: 2026-07-20
+
+skills:
+  - name: classify-skill
+    path: meta/classify-skill/
+    category: 元技能
+    tags: [管理, 分类, 仓库维护]
+    summary: 分析 inbox 下的新 skill 并建议最佳归类
+
+  - name: generate-index
+    path: meta/generate-index/
+    category: 元技能
+    tags: [管理, 索引, 仓库维护]
+    summary: 自动扫描仓库生成 .skills-registry.yaml 索引文件
+
+  - name: screen-analysis
+    path: work/dev/screen-analysis/
+    category: 工作 > 开发
+    tags: [嵌入式, GUI, 屏幕分析, HTML生成]
+    summary: 分析嵌入式GUI屏幕截图，生成带交互逻辑的HTML原型
